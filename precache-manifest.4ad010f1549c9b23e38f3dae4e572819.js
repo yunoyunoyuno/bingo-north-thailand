@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "66000e87bc2dbc60c0f84d93f3a85f98",
+    "revision": "1d4a7fb1d6b5ec430df902eb175f14cc",
     "url": "/bingo-north-thailand/index.html"
   },
   {
