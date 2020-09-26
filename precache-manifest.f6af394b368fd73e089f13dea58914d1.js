@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "302a5bb142865cb1a4dc14fe8bd43b7e",
+    "revision": "18efc96f605f6a633c1cfea3ad4b6436",
     "url": "/bingo-north-thailand/index.html"
   },
   {
-    "revision": "2afb3863f1555bce1908",
+    "revision": "90a68be7d211d6d7b0f1",
     "url": "/bingo-north-thailand/static/css/main.cb2ec517.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bingo-north-thailand/static/js/2.5a8bc873.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2afb3863f1555bce1908",
-    "url": "/bingo-north-thailand/static/js/main.dd2be72a.chunk.js"
+    "revision": "90a68be7d211d6d7b0f1",
+    "url": "/bingo-north-thailand/static/js/main.627cd901.chunk.js"
   },
   {
     "revision": "3a8a8992e14ba66919b9",
