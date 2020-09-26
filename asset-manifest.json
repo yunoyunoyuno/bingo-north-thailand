@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/bingo-north-thailand/static/css/main.cb2ec517.chunk.css",
-    "main.js": "/bingo-north-thailand/static/js/main.627cd901.chunk.js",
-    "main.js.map": "/bingo-north-thailand/static/js/main.627cd901.chunk.js.map",
+    "main.css": "/bingo-north-thailand/static/css/main.570a6a16.chunk.css",
+    "main.js": "/bingo-north-thailand/static/js/main.5202bdcf.chunk.js",
+    "main.js.map": "/bingo-north-thailand/static/js/main.5202bdcf.chunk.js.map",
     "runtime-main.js": "/bingo-north-thailand/static/js/runtime-main.7c2025f5.js",
     "runtime-main.js.map": "/bingo-north-thailand/static/js/runtime-main.7c2025f5.js.map",
     "static/js/2.5a8bc873.chunk.js": "/bingo-north-thailand/static/js/2.5a8bc873.chunk.js",
     "static/js/2.5a8bc873.chunk.js.map": "/bingo-north-thailand/static/js/2.5a8bc873.chunk.js.map",
     "index.html": "/bingo-north-thailand/index.html",
-    "precache-manifest.f6af394b368fd73e089f13dea58914d1.js": "/bingo-north-thailand/precache-manifest.f6af394b368fd73e089f13dea58914d1.js",
+    "precache-manifest.b93e2ebfc239d786fd3afff96b0738fc.js": "/bingo-north-thailand/precache-manifest.b93e2ebfc239d786fd3afff96b0738fc.js",
     "service-worker.js": "/bingo-north-thailand/service-worker.js",
-    "static/css/main.cb2ec517.chunk.css.map": "/bingo-north-thailand/static/css/main.cb2ec517.chunk.css.map",
+    "static/css/main.570a6a16.chunk.css.map": "/bingo-north-thailand/static/css/main.570a6a16.chunk.css.map",
     "static/js/2.5a8bc873.chunk.js.LICENSE.txt": "/bingo-north-thailand/static/js/2.5a8bc873.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7c2025f5.js",
     "static/js/2.5a8bc873.chunk.js",
-    "static/css/main.cb2ec517.chunk.css",
-    "static/js/main.627cd901.chunk.js"
+    "static/css/main.570a6a16.chunk.css",
+    "static/js/main.5202bdcf.chunk.js"
   ]
 }
