@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/bingo-north-thailand/static/css/main.41d43d26.chunk.css",
-    "main.js": "/bingo-north-thailand/static/js/main.ed3bf85d.chunk.js",
-    "main.js.map": "/bingo-north-thailand/static/js/main.ed3bf85d.chunk.js.map",
+    "main.css": "/bingo-north-thailand/static/css/main.cb2ec517.chunk.css",
+    "main.js": "/bingo-north-thailand/static/js/main.dd2be72a.chunk.js",
+    "main.js.map": "/bingo-north-thailand/static/js/main.dd2be72a.chunk.js.map",
     "runtime-main.js": "/bingo-north-thailand/static/js/runtime-main.7c2025f5.js",
     "runtime-main.js.map": "/bingo-north-thailand/static/js/runtime-main.7c2025f5.js.map",
     "static/js/2.5a8bc873.chunk.js": "/bingo-north-thailand/static/js/2.5a8bc873.chunk.js",
     "static/js/2.5a8bc873.chunk.js.map": "/bingo-north-thailand/static/js/2.5a8bc873.chunk.js.map",
     "index.html": "/bingo-north-thailand/index.html",
-    "precache-manifest.4ad010f1549c9b23e38f3dae4e572819.js": "/bingo-north-thailand/precache-manifest.4ad010f1549c9b23e38f3dae4e572819.js",
+    "precache-manifest.7426e50ab63d94e97a6191b02118e904.js": "/bingo-north-thailand/precache-manifest.7426e50ab63d94e97a6191b02118e904.js",
     "service-worker.js": "/bingo-north-thailand/service-worker.js",
-    "static/css/main.41d43d26.chunk.css.map": "/bingo-north-thailand/static/css/main.41d43d26.chunk.css.map",
-    "static/js/2.5a8bc873.chunk.js.LICENSE.txt": "/bingo-north-thailand/static/js/2.5a8bc873.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/bingo-north-thailand/static/media/logo.5d5d9eef.svg"
+    "static/css/main.cb2ec517.chunk.css.map": "/bingo-north-thailand/static/css/main.cb2ec517.chunk.css.map",
+    "static/js/2.5a8bc873.chunk.js.LICENSE.txt": "/bingo-north-thailand/static/js/2.5a8bc873.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7c2025f5.js",
     "static/js/2.5a8bc873.chunk.js",
-    "static/css/main.41d43d26.chunk.css",
-    "static/js/main.ed3bf85d.chunk.js"
+    "static/css/main.cb2ec517.chunk.css",
+    "static/js/main.dd2be72a.chunk.js"
   ]
 }

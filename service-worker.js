@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bingo-north-thailand/precache-manifest.4ad010f1549c9b23e38f3dae4e572819.js"
+  "/bingo-north-thailand/precache-manifest.7426e50ab63d94e97a6191b02118e904.js"
 );
 
 self.addEventListener('message', (event) => {
